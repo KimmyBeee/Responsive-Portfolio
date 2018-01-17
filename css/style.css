@@ -222,8 +222,18 @@ input[type=submit] {
 	border: 0 none;
 }
 
+/*New screen rules for 980px*/
+
+@media screen and (max-width: 980px) {
+
+	.container {
+		width: ;
+	}
 
 
+
+
+}
 
 
 
